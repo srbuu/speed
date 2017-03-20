@@ -1,5 +1,5 @@
 # speed
-Script Speed  
+Script Speed Test  
 
 wget -O /bin/fast raw.githubusercontent.com/srbuu/speed/master/fast
 
